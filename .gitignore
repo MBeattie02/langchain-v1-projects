@@ -1,4 +1,5 @@
-01-semantic-search/chroma_db
+chroma_db/
+**/..\\01-semantic-search\\chroma_db/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
